@@ -33,12 +33,12 @@ localStorage 本地数据存取 <br />
 个人中心 <br />
   ---编辑AR保存的图片 <br />
 # 图片预览
-![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/1.png)
-![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/2.png)
-![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/3.png)
-![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/4.png)
-![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/5.png)
-![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/6.png)
+![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/1.jpg)
+![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/2.jpg)
+![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/3.jpg)
+![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/4.jpg)
+![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/5.jpg)
+![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/6.jpg)
 
 # 项目运行
 install dependencies <br />
