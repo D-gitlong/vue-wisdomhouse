@@ -39,7 +39,7 @@ VUX 是基于 WeUI 和 Vue.js 的 移动端 UI 组件库,提供丰富的组件�
 ![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/1.jpg)
 ![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/2.jpg)
 ![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/3.jpg)
-![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/4.jpg)
+![image](https://github.com/D-gitlong/vue-wisdomhouse/blob/master/images/4.jpg)
 ![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/5.jpg)
 ![image](https://github.com/D-gitlong/wisdomhouse/blob/master/images/6.jpg)
 
